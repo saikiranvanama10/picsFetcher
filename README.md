@@ -1,6 +1,6 @@
 # App to Fetch pics from the unsplah library.
 
-Go to unsplash and create an authentication token and update it in the src/apis/unsplash.js
+Go to unsplash and create an authentication token and update it in the src/api/unsplash.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
